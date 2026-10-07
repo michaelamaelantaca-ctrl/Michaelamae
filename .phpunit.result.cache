@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\Feature\\WeatherDashboardTest::test_example":0.164,"Tests\\Feature\\WeatherDashboardTest::test_admin_dashboard_displays_weather_details":0.194,"Tests\\Feature\\WeatherDashboardTest::test_admin_dashboard_shows_fallback_when_weather_api_fails":0.025}}
